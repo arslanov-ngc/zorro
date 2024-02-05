@@ -1,0 +1,9 @@
+{
+  "name": "@zorro/web-ui",
+  "type": "module",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}

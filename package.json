@@ -1,0 +1,9 @@
+{
+  "name": "zorro",
+  "private": true,
+  "scripts": {},
+  "workspaces": [
+    "apps/api",
+    "apps/web-ui"
+  ]
+}
